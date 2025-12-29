@@ -1,0 +1,8 @@
+## Prompt para gerar funÃ§Ã£o calculateOrderTotal
+Crie uma funÃ§Ã£o em JavaScript que calcule o total de um pedido.
+O pedido tem uma lista de itens com {price, quantity} e pode ter um cupom
+no formato { percentage }. A funÃ§Ã£o deve retornar o total arredondado com 2 casas decimais.
+
+## Prompt para gerar testes Jest
+Write a Jest unit test for a Node.js function calculateOrderTotal that sums price*quantity,
+applies a percentage coupon if present, adds shipping, and returns a number rounded to 2 decimals.
